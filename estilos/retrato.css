@@ -19,7 +19,7 @@ main {
 
 img {
     position: relative;
-    left: 12.5vw;
+    left: 70px;
 }
 
 h1 {
@@ -39,7 +39,7 @@ section p {
 section ul li {
     position: relative;
     top: 5vh;
-    left: 4vw;
+    left: 10vw;
     
     width: 50vw;
 
